@@ -1,6 +1,6 @@
 # npmdoc-babel-plugin-transform-runtime
 
-#### api documentation for  babel-plugin-transform-runtime (v6.23.0)  [![npm package](https://img.shields.io/npm/v/npmdoc-babel-plugin-transform-runtime.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babel-plugin-transform-runtime) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babel-plugin-transform-runtime.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babel-plugin-transform-runtime)
+#### basic api documentation for  babel-plugin-transform-runtime (v6.23.0)  [![npm package](https://img.shields.io/npm/v/npmdoc-babel-plugin-transform-runtime.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babel-plugin-transform-runtime) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babel-plugin-transform-runtime.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babel-plugin-transform-runtime)
 
 #### Externalise references to helpers and builtins, automatically polyfilling your code without polluting globals
 
@@ -65,7 +65,8 @@
         "url": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-runtime"
     },
     "scripts": {},
-    "version": "6.23.0"
+    "version": "6.23.0",
+    "bin": {}
 }
 ```
 
